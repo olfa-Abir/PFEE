@@ -1,0 +1,21 @@
+python -m pip install docutils
+python -m pip install num2words
+python -m pip install html2text
+python -m pip install reportlab
+python -m pip install jinja2
+python -m pip install requests
+python -m pip install psutil
+python -m pip install python-dateutil
+python -m pip install idna
+python -m pip install psycopg2
+python -m pip install polib
+python -m pip install decorator
+python -m pip install werkzeug
+python -m pip install passlib
+python -m pip install image
+python -m pip install babel
+python -m pip install lxml
+python -m pip install pypiwin32
+python -m pip install PyPDF2
+
+
